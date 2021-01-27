@@ -8,18 +8,18 @@
 # Ferramentas e Tecnologias
 
 >Uma das principais vantagens de usar Python e o Pandas e também o Jupyter Notebook, que é um interpretador de Python interativo, que podemos analisar um volume relativamente grande de dados, como os obtidos para essa análise.
-
+>
 >*Python
 >*Pandas
 >*Matplotlib
 >*SeaBorn
 >*Anaconda Navigator
 >*Jupyter Notebook
-
+>
 >Dados Abertos obtidos na página do Senado Federal - https://www12.senado.leg.br/dados-abertos
-
+>
 >Qualquer dúvida ou sugestão estou a disposição.
-
+>
 >Contatos:
 >E-mail: azevedowlsa@gmail.com
 >Twitter: @azevedowlsa
