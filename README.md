@@ -7,7 +7,7 @@
 
 ## Ferramentas e Tecnologias
 
->Uma das principais vantagens de usar Python e o Pandas e também o Jupyter Notebook, que é um interpretador de Python interativo, que podemos analisar um volume relativamente grande de dados, como os obtidos para essa análise.
+>Uma das principais vantagens de usar Python, Pandas e também o Jupyter Notebook, um interpretador de Python interativo, é que podemos analisar volumes relativamente grande de dados, como os que foram obtidos para essa análise.
 >
 1. Python
 1. Pandas
